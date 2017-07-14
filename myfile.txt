@@ -1,0 +1,5 @@
+for many days, I wanna to learn programming, however, synchronize the program from home to office is a big issue. That is just an excuse, I think. Now, with Git and Github, everything changes. Sync is never a problem again.
+
+In the future, I will follow my heart, no, follow the plan to learn the C++ programming language. I will sync all the codes which I wrote or copliled to my github for future reference.
+Everything will be OK. 
+        < _ > Enjoy!
